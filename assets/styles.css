@@ -43,6 +43,12 @@ header p {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     font-family: Arial, sans-serif;
 }
+.product {
+    background: #08a82b;
+    color: #12100B;
+    padding: 20px;
+    font-size: 1.5rem;
+}
 
 .product-info {
     display: flex;
